@@ -12,22 +12,22 @@
         <note>key: content_type.add_field_definition</note>
       </trans-unit>
       <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create">
-        <source>Create a content type</source>
+        <source>Create a Content Type</source>
         <target>Create a content type</target>
         <note>key: content_type.create</note>
       </trans-unit>
       <trans-unit id="7b64ebcf792d888de957eaee1c3734c97c80db98" resname="content_type.default_always_available">
-        <source>Default content availability</source>
+        <source>Make content available even with missing translations</source>
         <target>Default content availability</target>
         <note>key: content_type.default_always_available</note>
       </trans-unit>
       <trans-unit id="b29f5d9c32e10776ec9fd36c35c4aefc96732cb2" resname="content_type.default_sort_field">
-        <source>Default field for sorting children</source>
+        <source>Sort children by default by:</source>
         <target>Default field for sorting children</target>
         <note>key: content_type.default_sort_field</note>
       </trans-unit>
       <trans-unit id="7a67ffefca1339a9e4c5224d773378c2e5f6f378" resname="content_type.default_sort_order">
-        <source>Default sort order</source>
+        <source>Sort children by default in order:</source>
         <target>Default sort order</target>
         <note>key: content_type.default_sort_order</note>
       </trans-unit>
@@ -42,12 +42,12 @@
         <note>key: content_type.description</note>
       </trans-unit>
       <trans-unit id="2aecf6f88fd1ee89037907b8743d5873879a0590" resname="content_type.field_definitions_data">
-        <source>Content field definitions</source>
+        <source>Content Field definitions</source>
         <target>Content field definitions</target>
         <note>key: content_type.field_definitions_data</note>
       </trans-unit>
       <trans-unit id="a43bfd2651eb1f3357e3398286afd5b6e17c101e" resname="content_type.field_type_selection">
-        <source>Field type selection</source>
+        <source>Field Type selection</source>
         <target>Field type selection</target>
         <note>key: content_type.field_type_selection</note>
       </trans-unit>
@@ -97,7 +97,7 @@
         <note>key: content_type.remove_draft</note>
       </trans-unit>
       <trans-unit id="5fa42f2a0ef1fee12efaa4cdb1c35bbed35e9b7e" resname="content_type.remove_field_definitions">
-        <source>Remove selected field definitions</source>
+        <source>Remove selected Field definitions</source>
         <target>Remove selected field definitions</target>
         <note>key: content_type.remove_field_definitions</note>
       </trans-unit>
@@ -132,12 +132,12 @@
         <note>key: content_type.sort_field.5</note>
       </trans-unit>
       <trans-unit id="f75919a228809d6de255e3fd535c4eaaf8789241" resname="content_type.sort_field.6">
-        <source>ContentType identifier</source>
+        <source>Content Type identifier</source>
         <target>ContentType identifier</target>
         <note>key: content_type.sort_field.6</note>
       </trans-unit>
       <trans-unit id="f4bd88a45172f3cf7e268c40cfc27b0c5336bc9b" resname="content_type.sort_field.7">
-        <source>ContentType name</source>
+        <source>Content Type name</source>
         <target>ContentType name</target>
         <note>key: content_type.sort_field.7</note>
       </trans-unit>
@@ -197,7 +197,7 @@
         <note>key: field_definition.ezboolean.default_value</note>
       </trans-unit>
       <trans-unit id="3ef6598f8cd7d60095784845bb24852ac531e47c" resname="field_definition.ezcountry.default_value">
-        <source>Select which countries by default</source>
+        <source>Default country</source>
         <target>Select which countries by default</target>
         <note>key: field_definition.ezcountry.default_value</note>
       </trans-unit>
@@ -342,32 +342,32 @@
         <note>key: field_definition.ezmedia.type_windows_media_player</note>
       </trans-unit>
       <trans-unit id="fabc9be57b82439dac2f612b9c2a171eb7ce6e04" resname="field_definition.ezobjectrelation.selection_content_types">
-        <source>Allowed content types</source>
+        <source>Allowed Content Types</source>
         <target>Allowed content types</target>
         <note>key: field_definition.ezobjectrelation.selection_content_types</note>
       </trans-unit>
       <trans-unit id="440d8fe80bb8a07b62f17d843721285b2cf8a4d5" resname="field_definition.ezobjectrelation.selection_root">
-        <source>Default selection item</source>
+        <source>Starting Location</source>
         <target>Default selection item</target>
         <note>key: field_definition.ezobjectrelation.selection_root</note>
       </trans-unit>
       <trans-unit id="e03e262fad0802fdee49aac136644b35450e1eab" resname="field_definition.ezobjectrelation.selection_root_udw_button">
-        <source>Select item</source>
+        <source>Select starting Location</source>
         <target>Select item</target>
         <note>key: field_definition.ezobjectrelation.selection_root_udw_button</note>
       </trans-unit>
       <trans-unit id="d892163a41d816c03db3c4a04e35550f02169c11" resname="field_definition.ezobjectrelation.selection_root_udw_title">
-        <source>Select a start location for browsing for relation</source>
+        <source>Select where to start browsing for a relation</source>
         <target>Select a start location for browsing for relation</target>
         <note>key: field_definition.ezobjectrelation.selection_root_udw_title</note>
       </trans-unit>
       <trans-unit id="7e061dc7c88fe38c11714695d4034f935788efb3" resname="field_definition.ezobjectrelationlist.selection_content_types">
-        <source>Allowed content types</source>
+        <source>Allowed Content Types</source>
         <target>Allowed content types</target>
         <note>key: field_definition.ezobjectrelationlist.selection_content_types</note>
       </trans-unit>
       <trans-unit id="b08d97ea9175eef7352c7e9c5c8ee0516798bdfa" resname="field_definition.ezobjectrelationlist.selection_default_location">
-        <source>Default location</source>
+        <source>Default Location</source>
         <target>Default location</target>
         <note>key: field_definition.ezobjectrelationlist.selection_default_location</note>
       </trans-unit>
@@ -377,12 +377,12 @@
         <note>key: field_definition.ezobjectrelationlist.selection_limit</note>
       </trans-unit>
       <trans-unit id="1592c36df8d445c3154d1f639027f97a90739856" resname="field_definition.ezobjectrelationlist.selection_root_udw_button">
-        <source>Select location</source>
+        <source>Select Location</source>
         <target>Select location</target>
         <note>key: field_definition.ezobjectrelationlist.selection_root_udw_button</note>
       </trans-unit>
       <trans-unit id="17d8f3e8bbd5b5f0f5b4b02ddaeaf2af82b0d222" resname="field_definition.ezobjectrelationlist.selection_root_udw_title">
-        <source>Select a start location for browsing for relations</source>
+        <source>Select where to start browsing for a relations</source>
         <target>Select a start location for browsing for relations</target>
         <note>key: field_definition.ezobjectrelationlist.selection_root_udw_title</note>
       </trans-unit>
